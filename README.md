@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/swati-kumari-55a962268)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-kumari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swati-kumari-55a962268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-kumari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kumari_swati2365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kumari_swati2365" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swatikumari2365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swatikumari2365" height="30" width="40" /></a>
 </p>
