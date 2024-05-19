@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swati Kumari</h1>
 <h3 align="center">Currently studying in Sharda University, Greater Noida</h3>
 
-- 🌱 I’m currently learning **Java DSA, DBMS etc.**
+- 🌱 I’m currently learning **Java DSA, DBMS,Spring Boot etc.**
 
 - 📫 How to reach me **kumari.swati2365@gmail.com**
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
