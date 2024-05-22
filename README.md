@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **kumari.swati2365@gmail.com**
   
-- - My resume-: [https://drive.google.com/file/d/1L8NDumOmAHioXbNXlZC-laWlTey6IijO/view?usp=sharing](https://drive.google.com/file/d/1L8NDumOmAHioXbNXlZC-laWlTey6IijO/view?usp=sharing)
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
